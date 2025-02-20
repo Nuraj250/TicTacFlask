@@ -182,12 +182,6 @@ redis-server
 
 ---
 
-## **🎮 Contributors**
-- **Your Name** - Backend Developer
-- **Other Contributors** - Additional team members
-
----
-
 ## **🐟 License**
 This project is licensed under the **MIT License**.
 
