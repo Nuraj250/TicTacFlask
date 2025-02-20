@@ -222,6 +222,6 @@ This project is licensed under the **MIT License**.
 ---
 
 ## **💍 Connect**
-💻 [Your GitHub](https://github.com/Nuraj250)  
+💻 [Nuraj](https://github.com/Nuraj250)  
 🚀 Happy Coding! 🎮🔥
 
