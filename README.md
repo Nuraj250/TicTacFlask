@@ -219,12 +219,6 @@ redis-server
 
 ---
 
-## **🎮 Contributors**
-- **Your Name** - Full-Stack Developer
-- **Other Contributors** - Additional team members
-
----
-
 ## **📜 License**
 This project is licensed under the **MIT License**.
 
