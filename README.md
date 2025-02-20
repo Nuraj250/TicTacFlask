@@ -1,6 +1,3 @@
-### **📂 `README.md`** (Full Project Documentation)
-
-```md
 # 🎮 Web-Powered Tic-Tac-Toe Game
 
 This is a **fully-featured Tic-Tac-Toe game** built with **Flask, Pygame, PostgreSQL/Firebase, and WebSockets**.  
@@ -19,7 +16,7 @@ It supports **multiplayer matchmaking, AI opponents, chat system, leaderboards, 
 
 ---
 
-## **📂 Project Structure**
+## **📚 Project Structure**
 ```
 tic-tac-toe-web/
 ├── backend/                     # Flask Backend
@@ -30,18 +27,18 @@ tic-tac-toe-web/
 │   ├── database/                 # Database Setup
 │   ├── scripts/                  # Deployment & Server Management
 │   ├── tests/                    # Unit & Integration Tests
-│   ├── config.py                  # Configuration
-│   ├── app.py                     # Main Flask Application
-│   ├── requirements.txt            # Dependencies
-│   ├── .env                        # Environment Variables
-│   ├── README.md                    # Backend Documentation
+│   ├── config.py                 # Configuration
+│   ├── app.py                    # Main Flask Application
+│   ├── requirements.txt          # Dependencies
+│   ├── .env                      # Environment Variables
+│   ├── README.md                 # Backend Documentation
 ├── frontend/                     # Pygame Frontend
 │   ├── assets/                    # Game Assets (Images, Sounds)
-│   ├── components/                 # UI Components
-│   ├── services/                   # API & WebSocket Services
-│   ├── main.py                     # Main Pygame Application
-│   ├── settings.py                  # Game Configuration
-│   ├── README.md                    # Frontend Documentation
+│   ├── components/                # UI Components
+│   ├── services/                  # API & WebSocket Services
+│   ├── main.py                    # Main Pygame Application
+│   ├── settings.py                # Game Configuration
+│   ├── README.md                  # Frontend Documentation
 ├── README.md                      # Full Project Documentation
 ```
 
@@ -219,12 +216,12 @@ redis-server
 
 ---
 
-## **📜 License**
+## **🐝 License**
 This project is licensed under the **MIT License**.
 
 ---
 
-## **🔗 Connect**
+## **💍 Connect**
 💻 [Your GitHub](https://github.com/Nuraj250)  
 🚀 Happy Coding! 🎮🔥
-``
+
