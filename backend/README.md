@@ -1,6 +1,3 @@
-### **📂 `backend/README.md`** (Backend Documentation)
-
-```md
 # 🎮 Tic-Tac-Toe Backend (Flask API)
 
 This is the **Flask-based backend** for the **Web-Powered Tic-Tac-Toe Game**.  
@@ -9,12 +6,12 @@ It manages authentication, matchmaking, game logic, AI opponent, leaderboards, a
 ---
 
 ## **🚀 Features**
-✅ **User Authentication** (Email/Password with JWT)  
-✅ **Real-Time Multiplayer** (Flask-SocketIO for matchmaking & gameplay)  
-✅ **AI Opponent** (Minimax Algorithm for single-player mode)  
-✅ **Leaderboard System** (ELO ranking for competitive players)  
-✅ **Chat System** (In-game messaging)  
-✅ **Match History API** (Track past games)  
+- ✅ **User Authentication** (Email/Password with JWT)  
+- ✅ **Real-Time Multiplayer** (Flask-SocketIO for matchmaking & gameplay)  
+- ✅ **AI Opponent** (Minimax Algorithm for single-player mode)  
+- ✅ **Leaderboard System** (ELO ranking for competitive players)  
+- ✅ **Chat System** (In-game messaging)  
+- ✅ **Match History API** (Track past games)  
 
 ---
 
@@ -112,8 +109,8 @@ python -m unittest discover tests
 
 ---
 
-## **📡 API Endpoints**
-### **🔐 Authentication**
+## **💼 API Endpoints**
+### **🔒 Authentication**
 | Method | Endpoint             | Description              |
 |--------|----------------------|--------------------------|
 | `POST` | `/api/auth/register` | Register a new user      |
@@ -142,7 +139,7 @@ python -m unittest discover tests
 
 ---
 
-## **📜 Deployment**
+## **🗂 Deployment**
 ### **1️⃣ Deploy on Heroku**
 ```bash
 heroku login
@@ -191,5 +188,6 @@ redis-server
 
 ---
 
-## **📜 License**
+## **🐟 License**
 This project is licensed under the **MIT License**.
+
