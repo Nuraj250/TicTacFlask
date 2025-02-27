@@ -1,7 +1,14 @@
 {
-    "rules": {
-      ".read": "auth != null",
-      ".write": "auth != null"
-    }
+  "rules": {
+    ".read": "auth != null",
+    ".write": "auth != null"
   }
-  
+}
+
+
+
+
+/****
+//".read": "auth.uid === $userId",   // Users can only read their own data
+//".write": "auth.uid === $userId"   // Users can only write to their own data
+*****/
