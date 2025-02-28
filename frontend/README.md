@@ -48,7 +48,7 @@ frontend/
 ## **📦 Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe-web.git
+git clone https://github.com/Nuraj250/tic-tac-toe-web.git
 cd tic-tac-toe-web/frontend
 ```
 
